@@ -1,7 +1,7 @@
-# The-AI-People-Manager
+# AI-&-The-Team-Manager
 A Research Initiative Exploring the Intersection of Artificial Intelligence and Human Resource Management, focusing on how AI Technologies can enhance team Leadership, Employee Engagement, and Organizational Effectiveness while Addressing Ethical Considerations in AI-driven People Management.
 
-# 🤖 The AI & People Manager
+# 🤖 AI & The Team Manager
 
 ## Research Project: The Human Factor in AI Implementation  
 *Measuring the Impact of Managerial AI Literacy on Team Performance and Employee Trust*
